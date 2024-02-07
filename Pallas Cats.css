@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box}
+
+body {
+    background-color: rgb(46, 99, 46);}
+
+.textcolor {color: white;}
+
+.textdecor {color: blue;
+font-family: "Comic Sans MS";}
+
+header h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    filter: drop-shadow(5px 5px 5px Black);}
+
+body {background-color:rgb(46, 99, 46);}
+h2 {font-family: "Comic Sans MS";
+}
+
+.Main {width: 1000px;
+    background-color: white;
+    border: 3px solid black;
+    padding: 30px;
+    text-align: left;
+    margin-left: 500px;
+}
+
+p, li {
+    font-family: "Arial Black";
+    font-family: 12pt;
+    color: black;
+    font-weight: 700;
+    line-height: 130%;}
+
+a:link {color: blue;
+    text-decoration: underline;
+    font-size: 20pt;
+    }
+        
+a:visited {color: blue;
+    text-decoration: none;
+    font-size: 20pt;
+    }
+
+a:hover {
+    background-color: blue;
+    color: white;
+    font-weight: 700;
+    }
